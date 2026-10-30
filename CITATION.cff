@@ -1,0 +1,73 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it using the metadata from this file, and cite the accompanying article."
+type: software
+title: "Hummell-2026: analysis code for 'Receptor-proximal phosphoform organization precedes β2 integrin activation'"
+abstract: >-
+  Python statistical engine and processed TMTpro 18-plex quantification tables
+  for APEX2 proximity labeling of the β2 integrin CD18 (ITGB2) against a
+  compartment-matched CAAX-APEX2 membrane reference in Jurkat T cells under
+  resting (BSA), ICAM-1 and ICAM-1 plus PMA conditions. Implements median
+  loading normalization, a day-blocked cell-means design with sample quality
+  weights, limma-trend empirical Bayes moderated t statistics, equivalence
+  testing by two one-sided tests, the phosphosite selectivity index (PSI) and
+  difference-of-differences contrasts for receptor-preferential activation
+  responses. Raw mass spectrometry data are deposited in PRIDE (PXD085432).
+authors:
+  # ORCID lines are commented out so the file validates; uncomment once filled in.
+  - family-names: Hummell
+    given-names: Nicholas A.
+    affiliation: "Department of Integrative Biology and Pharmacology, McGovern Medical School, The University of Texas Health Science Center at Houston"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: Jonnagaddala
+    given-names: Harathi
+    affiliation: "[AFFILIATION 2]"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: Kalocsay
+    given-names: Marian
+    affiliation: "[AFFILIATION 2]; [AFFILIATION 4]"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: Moore
+    given-names: Travis I.
+    affiliation: "Department of Integrative Biology and Pharmacology, McGovern Medical School, The University of Texas Health Science Center at Houston"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+    # email: "[INSTITUTIONAL EMAIL]"
+doi: 10.5281/zenodo.23824188
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23824188
+    description: Zenodo archive of this repository
+  - type: other
+    value: PXD085432
+    description: PRIDE accession for the raw mass spectrometry data
+repository-code: "https://github.com/MooreLabCode/Hummell-2026"
+license: MIT
+version: 1.0.0
+# date-released: 2026-11-DD
+keywords:
+  - integrin
+  - CD18
+  - ITGB2
+  - LFA-1
+  - APEX2
+  - proximity labeling
+  - phosphoproteomics
+  - TMT
+  - limma
+  - equivalence testing
+# Uncomment and complete once the preprint is posted. GitHub will then show
+# the article as the preferred citation in "Cite this repository".
+# preferred-citation:
+#   type: article
+#   title: "Receptor-proximal phosphoform organization precedes β2 integrin activation"
+#   authors:
+#     - family-names: Hummell
+#       given-names: Nicholas A.
+#     - family-names: Jonnagaddala
+#       given-names: Harathi
+#     - family-names: Kalocsay
+#       given-names: Marian
+#     - family-names: Moore
+#       given-names: Travis I.
+#   journal: bioRxiv
+#   year: 2026
+#   doi: "[PREPRINT DOI]"
