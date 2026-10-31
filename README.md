@@ -28,8 +28,6 @@ If you use this code or data, please cite the article above and this archive:
 
 > Hummell, N. A., Jonnagaddala, H., Kalocsay, M. & Moore, T. I. (2026). Hummell-2026: analysis code for "Receptor-proximal phosphoform organization precedes β2 integrin activation" (Version 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.23824188
 
-Citation metadata is also provided in [`CITATION.cff`](CITATION.cff), which GitHub displays under "Cite this repository".
-
 ## License
 
 - **Code** is released under the [MIT License](LICENSE).
@@ -41,6 +39,4 @@ Citation metadata is also provided in [`CITATION.cff`](CITATION.cff), which GitH
 Travis I. Moore, PhD
 Department of Integrative Biology and Pharmacology, McGovern Medical School
 The University of Texas Health Science Center at Houston (UTHealth Houston)
-[INSTITUTIONAL EMAIL]
-
-Questions about the code can also be raised as a [GitHub issue](https://github.com/MooreLabCode/Hummell-2026/issues).
+travis.i.moore@uth.tmc.edu

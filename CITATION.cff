@@ -31,16 +31,18 @@ authors:
     affiliation: "Department of Integrative Biology and Pharmacology, McGovern Medical School, The University of Texas Health Science Center at Houston; Center for Advanced Microscopy, The University of Texas Health Science Center at Houston;Program in Molecular and Translational Biology, The University of Texas MD Anderson Cancer Center UTHealth Graduate School of Biomedical Sciences (MD Anderson UTHealth GSBS)"
     # orcid: "https://orcid.org/0000-0002-8503-6023"
     # email: "travis.i.moore@uth.tmc.edu"
-doi: 10.5281/zenodo.23824188
+doi: 10.5281/zenodo.23824187
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.23824188
+    value: 10.5281/zenodo.23824187
     description: Zenodo archive of this repository
   - type: other
     value: PXD085432
     description: PRIDE accession for the raw mass spectrometry data
 repository-code: "https://github.com/MooreLabCode/Hummell-2026"
 license: MIT
+version: 1.0.0
+# date-released: 2026-11-DD
 version: 1.0.0
 # date-released: 2026-11-DD
 keywords:
@@ -54,6 +56,32 @@ keywords:
   - TMT
   - limma
   - equivalence testing
+references:
+  - type: data
+    # Match this title to the PRIDE project title.
+    title: "CD18-APEX2 proximity proteome and phosphoproteome in Jurkat T cells"
+    authors:
+      - family-names: Hummell
+        given-names: Nicholas A.
+      - family-names: Jonnagaddala
+        given-names: Harathi
+      - family-names: Kalocsay
+        given-names: Marian
+      - family-names: Moore
+        given-names: Travis I.
+    abstract: >-
+      Mass spectrometry proteomics data deposited to the ProteomeXchange
+      Consortium via the PRIDE partner repository with the dataset
+      identifier PXD085432.
+    publisher:
+      name: PRIDE
+    repository: "https://www.ebi.ac.uk/pride/archive/projects/PXD085432"
+    url: "https://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD085432"
+    identifiers:
+      - type: other
+        value: PXD085432
+        description: ProteomeXchange dataset identifier
+    year: 2026
 # Uncomment and complete once the preprint is posted. GitHub will then show
 # the article as the preferred citation in "Cite this repository".
 # preferred-citation:
