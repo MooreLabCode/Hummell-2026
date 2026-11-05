@@ -1,6 +1,6 @@
 # Hummell-2026
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23824188.svg)](https://doi.org/10.5281/zenodo.23824188)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23824187.svg)](https://doi.org/10.5281/zenodo.23824187)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 Statistical analysis code for:
