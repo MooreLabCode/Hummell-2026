@@ -68,7 +68,7 @@ Raw mass spectrometry data are deposited in PRIDE (PXD085432) and will be made p
 
 If you use this code, please cite the article above and this archive:
 
-> Hummell, N. A., Jonnagaddala, H., Kalocsay, M. & Moore, T. I. (2026). Hummell-2026: analysis code for "Receptor-proximal phosphoform organization precedes β2 integrin activation" (Version 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.23824188
+> Hummell, N. A., Jonnagaddala, H., Kalocsay, M. & Moore, T. I. (2026). Hummell-2026: analysis code for "Receptor-proximal phosphoform organization precedes β2 integrin activation" (Version 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.23824187
 
 ## License
 
