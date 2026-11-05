@@ -1,17 +1,16 @@
 cff-version: 1.2.0
-message: "If you use this software or data, please cite it using the metadata from this file, and cite the accompanying article."
+message: "If you use this software, please cite it using the metadata from this file, and cite the accompanying article."
 type: software
 title: "Hummell-2026: analysis code for 'Receptor-proximal phosphoform organization precedes β2 integrin activation'"
 abstract: >-
-  Python statistical engine and processed TMTpro 18-plex quantification tables
-  for APEX2 proximity labeling of the β2 integrin CD18 (ITGB2) against a
-  compartment-matched CAAX-APEX2 membrane reference in Jurkat T cells under
-  resting (BSA), ICAM-1 and ICAM-1 plus PMA conditions. Implements median
-  loading normalization, a day-blocked cell-means design with sample quality
-  weights, limma-trend empirical Bayes moderated t statistics, equivalence
-  testing by two one-sided tests, the phosphosite selectivity index (PSI) and
-  difference-of-differences contrasts for receptor-preferential activation
-  responses. Raw mass spectrometry data are deposited in PRIDE (PXD085432).
+  Python statistical engine for APEX2 proximity labeling of the β2 integrin
+  CD18 (ITGB2) against a compartment-matched CAAX-APEX2 membrane reference in
+  Jurkat T cells under resting (BSA), ICAM-1 and ICAM-1 plus PMA conditions,
+  measured by TMTpro 18-plex. Implements median loading normalization, a
+  day-blocked cell-means design with sample quality weights, limma-trend
+  empirical Bayes moderated t statistics and equivalence testing by two
+  one-sided tests. Raw mass spectrometry data are deposited in PRIDE
+  (PXD085432).
 authors:
   # ORCID lines are commented out so the file validates; uncomment once filled in.
   - family-names: Hummell
@@ -28,7 +27,7 @@ authors:
     # orcid: "https://orcid.org/0000-0002-4187-5829"
   - family-names: Moore
     given-names: Travis I.
-    affiliation: "Department of Integrative Biology and Pharmacology, McGovern Medical School, The University of Texas Health Science Center at Houston; Center for Advanced Microscopy, The University of Texas Health Science Center at Houston;Program in Molecular and Translational Biology, The University of Texas MD Anderson Cancer Center UTHealth Graduate School of Biomedical Sciences (MD Anderson UTHealth GSBS)"
+    affiliation: "Department of Integrative Biology and Pharmacology, McGovern Medical School, The University of Texas Health Science Center at Houston; Center for Advanced Microscopy, The University of Texas Health Science Center at Houston; Program in Molecular and Translational Biology, The University of Texas MD Anderson Cancer Center UTHealth Graduate School of Biomedical Sciences (MD Anderson UTHealth GSBS)"
     # orcid: "https://orcid.org/0000-0002-8503-6023"
     # email: "travis.i.moore@uth.tmc.edu"
 doi: 10.5281/zenodo.23824187
@@ -41,8 +40,6 @@ identifiers:
     description: PRIDE accession for the raw mass spectrometry data
 repository-code: "https://github.com/MooreLabCode/Hummell-2026"
 license: MIT
-version: 1.0.0
-# date-released: 2026-11-DD
 version: 1.0.0
 # date-released: 2026-11-DD
 keywords:
